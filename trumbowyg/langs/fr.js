@@ -19,7 +19,7 @@ $.trumbowyg.langs.fr = {
 
     bold:           "Gras",
     italic:         "Italique",
-    strikethrough:  "Rayé",
+    strikethrough:  "Barré",
     underline:      "Souligné",
 
     strong:         "Fort",
@@ -52,6 +52,6 @@ $.trumbowyg.langs.fr = {
     invalidUrl:     "URL invalide",
     required:       "Obligatoire",
     description:    "Description",
-    title:          "Title",
-    text:           "Text"
+    title:          "Titre",
+    text:           "Texte"
 }
